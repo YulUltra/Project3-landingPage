@@ -1,0 +1,50 @@
+.top-line {
+    padding: 20px;
+    color: #5F8575;
+    display: flex;
+    height: 30px;
+    width: 1230px;
+    font-family: 'Helvetica';
+    font-style: italic;
+    font-size: 30px;
+    line-height: 40px;
+    align-items: center;
+    background: linear-gradient(#AFE1AF, #E0FFFF);
+}
+.center {
+    display: flex;
+    width: 1350px;
+    height: 300px;
+    background-image: url(images/plants.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.middle-line {
+    display: flex;
+    height: 20px;
+    width: 1270px;
+    background-color: #71BC78;
+}
+.header {
+    color:#005c00;
+    font-style: italic;
+    height: 130px;
+    padding-left: 20px;
+}
+
+.bottom-line {
+    display: flex;
+    width: 1230px;
+    height: 70px;
+    background-color:#005c00;
+    color: white;
+    font-weight: bold;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
